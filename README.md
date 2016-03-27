@@ -1,3 +1,5 @@
-# matlab_differential_equations
-A brief program in Matlab, programming visualizations of linear algebra and differential equations.
+# Solving Differential Equations in MATLAB
+
+A brief program I wrote in Matlab. Includes code, and visualizations of linear algebra and differential equations.
+
 ![alt text](https://github.com/abstractmachines/matlab_differential_equations/blob/master/matlab-diff-eq-image.png)
